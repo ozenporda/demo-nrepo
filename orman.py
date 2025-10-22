@@ -1,2 +1,6 @@
 
-# kyrgys hero
+# kyrgys's heros ---
+
+
+
+heros = ["han", "prisedent", "batyr"]
